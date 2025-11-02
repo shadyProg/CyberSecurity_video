@@ -16,8 +16,7 @@
 - **John Hammond** – Malware analysis and CTF content  
 - **David Bombal** – Networking + security explained simply  
 - **STÖK** – Web hacking and Bug Bounty tips  
-- **Hak5** – Tools, gadgets, and pentesting tutorials
--[**@MohammedFathy** ]( https://www.youtube.com/@MohammedFathy)
+- [**@MohammedFathy** ]( https://www.youtube.com/@MohammedFathy)
 
 ### 🟦 / LinkedIn / posts
 - [**@shadyAhmed** ](https://www.linkedin.com/in/shady-ahmed-5a0b42301/) 
